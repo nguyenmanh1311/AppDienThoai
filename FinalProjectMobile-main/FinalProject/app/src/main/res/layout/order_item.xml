@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text = "LAPTOP"
+            android:textSize="20dp"
+            android:id="@+id/txtProductName"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+
+        <TextView
+            android:id="@+id/txtQuantityAndPrice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text = "90 x 19 = 18333 vnd"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"/>
+</LinearLayout>

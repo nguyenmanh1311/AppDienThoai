@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">E-Commerce App</string>
+    <string name="btn_add_product_into_basket">Add</string>
+</resources>

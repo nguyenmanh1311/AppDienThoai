@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">E-Commerce Application Administrator </string>
+    <string name="report_fragment">Hello blank fragment</string>
+    <string name="order_fragment">All ordered here</string>
+    <string name="manager_products_fragment">Manager Product</string>
+    <string name="btn_add_new_product">Create New Product</string>
+    <string name="btn_update_product">Update</string>
+    <string name="btn_delete_product">Delete</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
